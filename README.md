@@ -1,5 +1,5 @@
 # Cryptography-of-images-and-Template-Matching
-This is a project written in C about encrypting and decrypting an image after a unique code and template matching after given images with templates.
+This is a project written in C about encrypting and decrypting and template matching.
 <br>
 <h6>Cryptography</h6>
 The initial image was: <br><img src="What does the program/peppers.bmp" width="500"> <br>
